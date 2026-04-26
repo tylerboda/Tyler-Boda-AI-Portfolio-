@@ -1,0 +1,5 @@
+This project uses:
+
+NLTK or SpaCy
+NumPy
+Scikit-learn
