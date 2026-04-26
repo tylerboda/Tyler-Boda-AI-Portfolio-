@@ -1,0 +1,5 @@
+This project uses:
+
+NumPy
+Pandas
+Matplotlib
