@@ -44,6 +44,7 @@ Advanced AI Concepts
 Explored how AI connects images and language to generate descriptions and answers.
 
 Contact
+
 Email: tylerboda88@gmail.com
 LinkedIn: linkedin.com/in/tylerboda
 GitHub: https://github.com/tylerboda
