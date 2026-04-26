@@ -1,0 +1,6 @@
+This project uses:
+
+TensorFlow 2.x
+NumPy
+Matplotlib
+OpenCV
