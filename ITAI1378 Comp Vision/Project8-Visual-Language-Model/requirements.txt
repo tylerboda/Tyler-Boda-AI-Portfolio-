@@ -1,0 +1,6 @@
+This project uses:
+
+PyTorch
+Transformers
+Matplotlib
+Pillow (PIL)
