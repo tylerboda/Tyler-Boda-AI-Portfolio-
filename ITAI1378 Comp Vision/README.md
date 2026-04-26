@@ -45,9 +45,9 @@ Explored how AI connects images and language to generate descriptions and answer
 
 Contact
 
-Email: tylerboda88@gmail.com
-LinkedIn: linkedin.com/in/tylerboda
-GitHub: https://github.com/tylerboda
+- Email: tylerboda88@gmail.com
+- LinkedIn: linkedin.com/in/tylerboda
+- GitHub: https://github.com/tylerboda
 
 Notes
 
